@@ -20,13 +20,13 @@ pip install -user venv
 3. Firstly you need to clone or download my project from github repositories:
 
 ```bash
-git clone https://github.com/IamOmaR22/Weather_App--Python-Django.git
+git clone https://github.com/Abhishekgarg97/weatherappDjango.git
 ```
 
 4. Then enter the corresponding directory:
 
 ```bash
-cd Weather_App--Python-Django
+cd weatherappDjango
 ```
 
 5. Install all the requirements using pip:
